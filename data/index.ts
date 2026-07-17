@@ -75,35 +75,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "PanaGhar",
-    des: "PanaGhar is a book renting platform, where you can rent books and also rent your books. It promotes book reusability abd connects readers with communities.",
+    title: "title",
+    des: "description",
     img: "/p1.png",
     iconLists: ["/html.svg", "/tail.svg", "/express.svg", "/node.svg", "/mongo.svg", "/js.svg"],
     link: "/comingsoon.png",
   },
   {
     id: 2,
-    title: "Wander Pokhara",
-    des: "Web application for discovering/sharing unexplored destinations in Pokhara. It promotes tourism and helps visitors/locals discover places around Pokhara.",
-    img: "/p2.png",
-    iconLists: ["/html.svg", "/tail.svg", "/js.svg", "/express.svg", "/node.svg", "/mongo.svg"],
-    link: "https://wander-pokhara-ism7.onrender.com/",
+    title: "title",
+    des: "description",
+    img: "/p1.png",
+    iconLists: ["/html.svg", "/tail.svg", "/express.svg", "/node.svg", "/mongo.svg", "/js.svg"],
+    link: "/comingsoon.png",
   },
   {
     id: 3,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p3.png",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/three.svg", "/gsap.svg"],
-    link: "https://apple-website-iota-snowy.vercel.app/",
+    title: "title",
+    des: "description",
+    img: "/p1.png",
+    iconLists: ["/html.svg", "/tail.svg", "/express.svg", "/node.svg", "/mongo.svg", "/js.svg"],
+    link: "/comingsoon.png",
   },
   {
     id: 4,
-    title: "Brainwave",
-    des: "Modern UI/UX website that exemplifies modern UI/UX principles. Its sleek design, seamless animations servins as an inspiration for modern websites in general.",
-    img: "/p4.png",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/three.svg", "/gsap.svg"],
-    link: "https://brainwave-azure-tau.vercel.app/",
+    title: "title",
+    des: "description",
+    img: "/p1.png",
+    iconLists: ["/html.svg", "/tail.svg", "/express.svg", "/node.svg", "/mongo.svg", "/js.svg"],
+    link: "/comingsoon.png",
   },
 ];
 
@@ -181,21 +181,21 @@ export const workExperience = [
   {
     id: 2,
     title: "College Representative",
-    desc: "Code for Change Pokhara's college representative, fostering to build connection between my college and the tech industry.",
+    desc: "college representative, fostering to build connection between my college and the tech industry.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Event Co-ordinator",
-    desc: "Organizing and managaning events conducted by one of my college's club 'GCES IT Club' for seamless event flow.",
+    desc: "Organizing and managaning events conducted by one of my college's club for seamless event flow.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Alumni",
-    desc: "Alumni of Women Leader's in Technology(non-profit organization), volunteering and contributing to foster the involvement of women in the field of tech.",
+    desc: "Alumni of an organization, volunteering and contributing to foster the involvement of women in the field of tech.",
     clasName: "md:col-span-2",
     thumbnail: '/exp2.svg'
   }
@@ -205,72 +205,72 @@ export const certificates = [
   {
     title: "Mentor",
     button: "View Certificate",
-    src: "/DesignThinking.png"
+    src: "/certificate.png"
   },
     {
     title: "Mentor",
     button: "View Certificate",
-    src: "/Git&Github.png"
+    src: "/certificate.png"
   },
     {
     title: "Fellow",
     button: "View Certificate",
-    src: "/fellowship.png"
+    src: "/certificate.png"
   },
   {
     title: "Volunteer",
     button: "View Certificate",
-    src: "/HoC.jpg"
+    src: "/certificate.png"
   },
     {
     title: "Volunteer",
     button: "View Certificate",
-    src: "/WIIT(Parbat).jpg"
+    src: "/certificate.png"
   },
     {
     title: "Volunteer",
     button: "View Certificate",
-    src: "/expo.png"
+    src: "/certificate.png"
   },
     {
     title: "Executive Member",
     button: "View Certificate",
-    src: "/executive.png"
+    src: "/certificate.png"
   },
    {
     title: "Online Course",
     button: "View Certificate",
-    src: "/JS.png"
+    src: "/certificate.png"
   },
      {
     title: "Online Course",
     button: "View Certificate",
-    src: "/PY1.png"
+    src: "/certificate.png"
   },
      {
     title: "Online Course",
     button: "View Certificate",
-    src: "/PY2.png"
+    src: "/certificate.png"
   },
   {
     title: "Participant",
     button: "View Certificate",
-    src: "/ANAIS2024.png"
+    src: "/certificate.png"
   },
   {
     title: "Participant",
     button: "View Certificate",
-    src: "/docker.png"
+    src: "/certificate.png"
   },
     {
     title: "Participant",
     button: "View Certificate",
-    src: "/figma.png"
+    src: "/certificate.png"
   },
   {
     title: "Participant",
     button: "View Certificate",
-    src: "/data.png"
+    src: "/certificate.png"
   }
 
 ]
@@ -279,7 +279,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/github.svg",
-    href: "https://www.github.com/aayushmak",
+    href: "https://www.github.com/",
   },
   {
     id: 2,
@@ -289,6 +289,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    href: "https://www.linkedin.com/aayushmak",
+    href: "https://www.linkedin.com/",
   },
 ];

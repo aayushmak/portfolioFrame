@@ -24,7 +24,7 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:aayushmakafle@gmail.com">
+        <a href="mailto:">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -35,7 +35,7 @@ const Footer = () => {
       <hr className="my-10 border border-purple"/>
       <div className="flex mt-6 md:flex-row flex-col justify-between items-center gap-10">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2025 Aayushma Kafle
+          Copyright © 2025 
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
